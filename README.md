@@ -1,7 +1,9 @@
 # Volkswagen.Diagnostics
 # (VCDS) VAG-COM Diagnostic System
 # Home:
-https://www.ross-tech.com/vcds/tour/main_screen.php
+
+Tour: https://www.ross-tech.com/vcds/tour/main_screen.php  
+Functions: http://wiki.ross-tech.com/wiki/index.php/Functions
 
 # Manual:
 https://www.ross-tech.net/VCDS/download/manual/VCDS-Printable-Manual-2015.pdf
